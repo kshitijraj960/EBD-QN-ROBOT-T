@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/the_vip_boy)♨️
+ ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [EBD QN](https://t.me/EBD_CHATS)♨️
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "📍ʀᴇᴘᴏ📍",
-                        url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                        url=",
                     ),
                 ]
             ]
